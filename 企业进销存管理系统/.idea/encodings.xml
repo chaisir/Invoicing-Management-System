@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/backup/20160715_132858.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/backup/20160715_133232.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/model/TbSellMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/dao/model/TbSellMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/DesktopPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/Item.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/MainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/MenuBar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/ToolBar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/Columns.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/Dao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/Tables.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbGysinfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbJsr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbKhinfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbKucun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbRkthDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbRkthMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbRukuDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbRukuMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbSellDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbSpinfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbXsthDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/dao/model/TbXsthMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/BackupAndRestore.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/GengGaiMiMa.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/GongYingShangChaXun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/GysGuanLi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/JiaGeTiaoZheng.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/JinHuoDan_IFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/JinHuoTuiHuo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/Jinhuo_Tuihuo_IFram.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/JsrGL.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/KeHuGuanLi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/KuCunPanDian.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/ShangPinChaXun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/ShangPinGuanLi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/XiaoShouChaXun.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/XiaoShouDan.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/XiaoShouPaiHang.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/XiaoShouTuiHuo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/customCellEditor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/czyGl/SetJSR.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/czyGl/TJJingShouRen.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/gysGuanLi/GysTianJiaPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/gysGuanLi/GysXiuGaiPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/keHuGuanLi/KeHuTianJiaPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/keHuGuanLi/KeHuXiuGaiPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/shangPinGuanLi/ShangPinTianJiaPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/iframe/shangPinGuanLi/ShangPinXiuGaiPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/login/LoginDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/mingrisoft/login/LoginPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/keyListener/InputKeyListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../百度网盘下载/Java项目开发实战入门（光盘资源）/Code/05/Project/企业进销存管理系统/src/com/mingrisoft/MenuBar.java" charset="GBK" />
+  </component>
+</project>
